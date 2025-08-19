@@ -38,6 +38,6 @@ Open Dashboard.xlsx in Microsoft Excel.
 
 Use slicers (Years, Category, Region, Quarters) to filter data.
 
-Explore charts and KPIs to get insights.
+Explore charts and KPIs to get insights..
 
 
